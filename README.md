@@ -48,10 +48,6 @@ I am building and documenting practical AI automation systems for B2B environmen
 
 All projects include defined problem statements, architectural explanations and structured output examples.
 
-## Greenscreen Setup (Content / Video Use)
-
-For technical explainers and AI workflow demonstrations, I use a clean green screen background to present architecture diagrams, workflow chains and system visualizations in a clear and structured format.
-
 ## Contact
 
 Leander Rück  
